@@ -31,7 +31,9 @@ The visualization in this project is based on empirical data from the report "Ec
 
 An interactive graph, generated with Python and Plotly, visualizes this data. The graph clearly shows the different economic areas and illustrates the deadweight loss created by the tariffs.
 
-**[>> Click here to view the interactive graph <<](https://09stochastic.github.io/steel_tariff_model.py/interactive_steel_tariff_graph.html)**
+**[>> Click here to view the interactive graph <<](https://ostochastic.github.io/steel_tariff_model.py/interactive_steel_tariff_graph.html)**
+
+**
 
 ## Discussion and Conclusion
 
