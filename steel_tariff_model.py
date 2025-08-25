@@ -80,4 +80,5 @@ fig.update_yaxes(range=[0, intercept_D * 1.05])
 file_name = "interactive_steel_tariff_graph.html"
 fig.write_html(file_name)
 
-print(f"Interaktiv graf har sparats som '{file_name}'")
+print(f"Interactive graph has been saved as '{file_name}'")
+
