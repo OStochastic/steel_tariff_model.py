@@ -33,7 +33,6 @@ An interactive graph, generated with Python and Plotly, visualizes this data. Th
 
 **[>> Click here to view the interactive graph <<](https://ostochastic.github.io/steel_tariff_model.py/interactive_steel_tariff_graph.html)**
 
-**
 
 ## Discussion and Conclusion
 
